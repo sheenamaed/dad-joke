@@ -1,0 +1,26 @@
+html {
+    font-family: Impact, Charcoal, sans-serif;
+  }
+body{
+     background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    margin-top: 100px; 
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.joke {
+    text-align: center;
+}
+
+
+.btn{
+
+    text-align:center;
+    border-radius:150px;
+    margin-top: 30px;
+    border:none;    
+}
+
